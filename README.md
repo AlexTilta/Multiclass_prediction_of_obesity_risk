@@ -1,10 +1,16 @@
 # Multiclass_prediction_of_obesity_risk
+## Описание файлов
+### !!! Итоговые файлы !!!
+- 01_EDA.ipynb - работа с датасетом;
+- 02_ML.ipynb - работа с моделями.
+### Остальные папки и файлы
+- data - базовые данные; 
+- shared_folder - папка, где хранятся личные папки каждого участника проекта и его наработки; 
+- report_flolder - первые наброски для финальных ноутбуков;
+- src - папка с py кодом для работы с датасетом.
 ## Список ссылок
 | Название | Ссылка |
 |---|---|
-| **Основной файл** |
-| Google Collab | https://colab.research.google.com/drive/1SVevYz8TpSBrCDzUk5jhw7M94nDeTJRK?usp=sharing | 
-| **Информация о датасете** |
 | Используемый Датасет | https://www.kaggle.com/competitions/playground-series-s4e2/data
 | Оригинальный датасет | https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluste
 | Оригинальная статья с исследованием, а также описание датасета | https://www.sciencedirect.com/science/article/pii/S2352340919306985
